@@ -1,1 +1,1 @@
-
+This README provides a structured overview for the paper “ Assessment of the Future of Meteorological Drought Occurrences in Iran” submitted to Earth's Future journal. The reporisotry includes meterological data (e.g., temperature and precipitation) for climate models and observations and calculated SPI/SPEI drought files. In addition, the scripts for calculations of droughts are presented in “scripts” folder.
